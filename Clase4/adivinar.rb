@@ -1,3 +1,4 @@
+# crear otro archivo para jugar con la clase game
 class Game
 
     def initialize
