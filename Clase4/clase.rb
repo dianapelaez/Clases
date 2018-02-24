@@ -36,3 +36,10 @@ puts saludo.name = "Monica"
 
 puts saludo.greet("Marce")
 
+# ctrl + k + c
+
+# s = string.new("hola")
+
+# s.length
+
+
